@@ -1,16 +1,23 @@
-# mywhatsapp
+# WhatsApp UI Clone
 
-A new Flutter project.
+This project is made in Flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+# Chat
+<img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Chats.png" height="400" />
 
-A few resources to get you started if this is your first Flutter project:
+# Status
+<img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Status.png" height="400" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Call
+<img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Calls.png" height="400" />
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Chat Screen
+<img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Chat+Screen.png" height="400" />
+
+
+# Camera
+<img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Camera.png" height="400" />
+
+## If you like this. Star this repository
