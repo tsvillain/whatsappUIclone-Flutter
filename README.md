@@ -14,7 +14,7 @@ This project is made in Flutter.
 <img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Calls.png" height="400" />
 
 ## Chat Screen
-<img src="https://github.com/tsvillain/whatsappUIclone-flutter/blob/master/images/Screenshots/Chat+Screen.png" height="400" />
+<img src="https://github.com/tsvillain/whatsappUIclone-Flutter/blob/master/images/Screenshots/Chat%20Screen.png" height="400" />
 
 
 ## Camera
